@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me<br>Hi! I'm a DevOps and Cloud enthusiast passionate about automation, infrastructure, and real-time systems. I enjoy working with:<br>AWS  services like EC2, RDS, S3, Route 53, CloudWatch, Lambda, and Transcribe<br>Docker for containerizing applications and building efficient environments<br>Linux systems for scripting, hosting, and system operations<br>Python for automation, backend logic, and cloud integrations using Boto3
+💫 Hi, I’m currently a cloud engineer working on developing my skills. I’m proficient in Python and AWS, and have some experience with Azure. I’m exploring my strengths and areas for growth.
 
 
 ## 🌐 Socials:
