@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 Hi, I’m currently a cloud engineer working on developing my skills. I’m proficient in Python and AWS, and have some experience with Azure. I’m exploring my strengths and areas for growth.
+[▶️ Watch demo video](https://github.com/Aswin-00/REPO_NAME/blob/iamnoob.mp4)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aswingirish)
@@ -20,7 +20,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aswin-00&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
